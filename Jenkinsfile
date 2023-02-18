@@ -28,6 +28,6 @@ stages {
                 echo "Pipeline failed"
             }
         }
-    }
+    }
 }
 }
