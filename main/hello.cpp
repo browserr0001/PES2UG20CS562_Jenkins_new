@@ -6,5 +6,5 @@ int main(void) {
   cout << "Hello, World pes2ug20cs562\n";
   cout << "Hello, Jenkins\n";
   cout << "I have successfully built and run\n";
-  return 0;
+  return 0
 }
